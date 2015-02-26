@@ -1,0 +1,19 @@
+/** Add css rules here for your application. */
+
+
+.updateTable, .contactTable {
+	border: 2px solid black;
+	margin: 5px;
+}
+
+.contactTable tr:hover{
+	background-color: #dddddd;
+}
+
+.firstRow {
+	background-color: #3333dd;
+	color: #eeeeee;
+}
+
+
+
